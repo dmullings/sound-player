@@ -18,4 +18,4 @@ A simple wrapper for playing sounds using the Web Audio API
     SOUND_PLAYER.setVolume(this.dataset.volume);
     
     //get the current volume level
-    var v olume = SOUND_PLAYER.getVolume();
+    var volume = SOUND_PLAYER.getVolume();
